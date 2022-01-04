@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Axt
+  - pergament
+  - Orc
+  - SpawnPoint
+  - Schloss
+  - Door
+  - BlackScreen
+  - Potion
+  - Liquid
+  - cauldron_leftover
+  - castray
+  - castStar
+  - Unterschrift
+  - PortRay
+  - Axe
+  - Floor
+  - Headset
+  - Refill
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - container
+  - Teleportable
+  - FadeCamera
+  - FadeOut
+  - liquid
+  - absorber
+  - Nav Mesh
+  - emitter
+  - Axe
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
